@@ -1,0 +1,6 @@
+{
+  "name": "أثر المسلم",
+  "description": "تطبيق إسلامي شامل لمواقيت الصلاة، القرآن الكريم، أذكار حصن المسلم، تتبع الختمة والسبحة الإلكترونية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
